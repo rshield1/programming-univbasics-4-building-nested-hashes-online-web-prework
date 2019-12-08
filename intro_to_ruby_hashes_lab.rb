@@ -22,7 +22,7 @@ def monopoly_with_third_tier
     new_Hash = {:railroads => {
     :pieces => 4, 
     :rent_in_dollars => {:one_piece_owned => 25, :two_pieces_owned => 50, :three_pieces_owned => 100, :four_pieces_owned => 200},
-    :names => {:reading_railroad => {}, :pennsylvania_railroad => {}, :item3 => 1, :item4 => 1}
+    :names => {:reading_railroad => {}, :pennsylvania_railroad => {}, :b_and_o_railroad => {}, :item4 => 1}
     }
   }
 end
