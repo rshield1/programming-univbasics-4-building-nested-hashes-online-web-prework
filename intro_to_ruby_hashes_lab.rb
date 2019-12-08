@@ -21,9 +21,7 @@ def monopoly_with_third_tier
   # complexity.
     new_Hash = {:railroads => {
     :pieces => 4, 
-    :rent_in_dollars => {
-      :key_1 => "value", :key_2 => "value", :key_3 => "value", :key_4 => "value"}
-      :names => {}
+    :rent_in_dollars => {}
     }
   }
 end
